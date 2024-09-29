@@ -1,5 +1,3 @@
----
-
 # Adaptive Reinforcement Learning in High-Frequency Trading
 
 **Author**: Chi-Lin Li
@@ -70,5 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contribution
 
 Chi-Lin Li contributed 100% to this project.
-
----
